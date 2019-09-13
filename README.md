@@ -1,6 +1,6 @@
 # gnuplot-live
 ## What is it?
-A simple bash script that takes in data from stdin and plots them out using gnuplot.
+A simple bash script that takes in data from stdin and plots them out using `gnuplot`.
 
 ## How does it work?
 The script creates a named pipe and a file in a temporary directory.
